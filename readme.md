@@ -1,6 +1,6 @@
 # Placeholder Loading Animation
 
-Simple placeholder loading animation done with CSS + HTML using flexbox. Checkout the [CodePen](https://codepen.io/saqibameen/pen/qBWGjqo).
+Simple placeholder loading animation done with CSS + HTML using flexbox. Checkout the [Pen at CodePen](https://codepen.io/saqibameen/pen/qBWGjqo) or [GitHub Page](https://saqibameen.github.io/Placeholder-Loading-Animation/).
 
 > It's responsive and depends upon the viewport width.
 
